@@ -1,0 +1,32 @@
+# Data and datasets
+VAI_NVS_DATA_ROUND2/
+__MACOSX/
+*.ply
+*.pth
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Python / C++ build & cache artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+*.dll
+*.obj
+*.exe
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output directories
+output/
+eval/
+renders/
+logs/
